@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HostingModel/HostingModel.Client/HostingModel.Client.csproj" />
+  <Project Path="HostingModel/HostingModel/HostingModel.csproj" />
+</Solution>

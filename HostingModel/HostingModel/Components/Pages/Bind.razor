@@ -1,0 +1,29 @@
+﻿@page "/bind"
+@rendermode InteractiveServer
+@*
+    rendermode: por componente
+    - None (sem interatividade): vazio
+    - Server: InteractveServer
+    - WebAssembly: InteractiveWebAssembly
+    - Auto (Server -> WebAssembly): InteractiveAuto
+*@
+<h3>Bind</h3>
+
+<div>
+    @*
+    Bind - One_Way (unidirecional): { get;* } - pega um dado
+    *@
+    <p>@Texto</p>
+    
+</div>
+
+<div>
+    @*
+    Bind - Two-Way (Bidirecnional): { get;* set; } - pega um dado e também atribui
+    *@
+    <input @bind="Texto" />
+</div>
+
+@code {
+    private string Texto { get; set; } = "Eu sou um texto!";
+}
