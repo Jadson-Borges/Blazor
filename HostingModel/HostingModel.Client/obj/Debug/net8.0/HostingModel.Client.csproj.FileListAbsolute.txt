@@ -1020,9 +1020,6 @@ D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\gm54rrhbix-{0}-tptq2av103-tptq2av103.gz
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\iqsh6v31x9-{0}-lfu7j35m59-lfu7j35m59.gz
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\ioictsmg9t-{0}-oyz0vx2fzb-oyz0vx2fzb.gz
-D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\n0ksjq95vm-{0}-9r8vbe5sf3-9r8vbe5sf3.gz
-D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\jfdrqo461j-{0}-oaa0kczc3o-oaa0kczc3o.gz
-D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\teb75678ta-{0}-2ic60phhwg-2ic60phhwg.gz
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\staticwebassets.build.json
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\staticwebassets.development.json
@@ -1034,3 +1031,7 @@ D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\refint\HostingModel.Client.dll
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\HostingModel.Client.pdb
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\ref\HostingModel.Client.dll
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\HostingModel.Client.sourcelink.json
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\n0ksjq95vm-{0}-iauc2vyn9q-iauc2vyn9q.gz
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\jfdrqo461j-{0}-voy2iauli9-voy2iauli9.gz
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\teb75678ta-{0}-9cbgj23tho-9cbgj23tho.gz

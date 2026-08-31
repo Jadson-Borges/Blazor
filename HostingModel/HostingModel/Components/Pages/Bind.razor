@@ -17,11 +17,30 @@
     
 </div>
 
-<div>
+<div class="mt-3">
     @*
     Bind - Two-Way (Bidirecnional): { get;* set; } - pega um dado e também atribui
     *@
-    <input @bind="Texto" />
+    <input @bind="Texto" class="form-control" />
+</div>
+
+<div class="mt-3">
+    @*
+    Bind - Two-Way (Bidirecnional): { get;* set; } - pega um dado e também atribui
+    *@
+    <input @bind="Texto" @bind:event="oninput" class="form-control" />
+</div>
+
+<div class="mt-3">
+    <input @bind-value="Texto" @bind-value:event="oninput" class="form-control" />
+</div>
+
+<div class="mt-3">
+    <input @bind-value="Texto" @bind-value:event="oninput" class="form-control" />
+</div>
+
+<div class="mt-3">
+    <input @bind:get="Texto" @bind:set="(value) => {Texto = value!;}" @bind:event="oninput" class="form-control" />
 </div>
 
 @code {

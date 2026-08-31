@@ -35,8 +35,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/Event.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/RouterHub.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSb3V0ZXJIdWIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/Weather.razor]

@@ -65,3 +65,4 @@ D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel\obj\Debug\net8.0\refint
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel\obj\Debug\net8.0\HostingModel.pdb
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel\obj\Debug\net8.0\HostingModel.genruntimeconfig.cache
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel\obj\Debug\net8.0\ref\HostingModel.dll
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel\obj\Debug\net8.0\HostingModel.sourcelink.json
