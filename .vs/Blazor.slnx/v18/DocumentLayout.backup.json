@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|d:\\aplica\u00E7\u00F5es c-sharp\\blazor\\hostingmodel\\hostingmodel\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|solutionrelative:hostingmodel\\hostingmodel\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|d:\\aplica\u00E7\u00F5es c-sharp\\blazor\\hostingmodel\\hostingmodel\\components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|solutionrelative:hostingmodel\\hostingmodel\\components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|d:\\aplica\u00E7\u00F5es c-sharp\\blazor\\hostingmodel\\hostingmodel\\components\\pages\\404error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|solutionrelative:hostingmodel\\hostingmodel\\components\\pages\\404error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|d:\\aplica\u00E7\u00F5es c-sharp\\blazor\\hostingmodel\\hostingmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|solutionrelative:hostingmodel\\hostingmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|d:\\aplica\u00E7\u00F5es c-sharp\\blazor\\hostingmodel\\hostingmodel\\components\\pages\\routerhub.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|solutionrelative:hostingmodel\\hostingmodel\\components\\pages\\routerhub.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|d:\\aplica\u00E7\u00F5es c-sharp\\blazor\\hostingmodel\\hostingmodel\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|solutionrelative:hostingmodel\\hostingmodel\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|d:\\aplica\u00E7\u00F5es c-sharp\\blazor\\hostingmodel\\hostingmodel\\routersconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|solutionrelative:hostingmodel\\hostingmodel\\routersconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9905602A-CB66-2497-39F8-36F1EF3787E7}|HostingModel\\HostingModel\\HostingModel.csproj|d:\\aplica\u00E7\u00F5es c-sharp\\blazor\\hostingmodel\\hostingmodel\\components\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -22,37 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Component.razor",
+              "DocumentMoniker": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Components\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "HostingModel\\HostingModel\\Components\\Pages\\Component.razor",
+              "ToolTip": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Components\\Pages\\Component.razor",
+              "RelativeToolTip": "HostingModel\\HostingModel\\Components\\Pages\\Component.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T18:29:10.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Program.cs",
+              "RelativeDocumentMoniker": "HostingModel\\HostingModel\\Program.cs",
+              "ToolTip": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Program.cs",
+              "RelativeToolTip": "HostingModel\\HostingModel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T18:24:01.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "404error.razor",
+              "DocumentMoniker": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Components\\Pages\\404error.razor",
+              "RelativeDocumentMoniker": "HostingModel\\HostingModel\\Components\\Pages\\404error.razor",
+              "ToolTip": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Components\\Pages\\404error.razor",
+              "RelativeToolTip": "HostingModel\\HostingModel\\Components\\Pages\\404error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T18:22:04.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoutersConstants.cs",
+              "DocumentMoniker": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\RoutersConstants.cs",
+              "RelativeDocumentMoniker": "HostingModel\\HostingModel\\RoutersConstants.cs",
+              "ToolTip": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\RoutersConstants.cs",
+              "RelativeToolTip": "HostingModel\\HostingModel\\RoutersConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T13:39:13.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "HostingModel\\HostingModel\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "HostingModel\\HostingModel\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-31T13:10:11.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "RouterHub.razor",
               "DocumentMoniker": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Components\\Pages\\RouterHub.razor",
               "RelativeDocumentMoniker": "HostingModel\\HostingModel\\Components\\Pages\\RouterHub.razor",
               "ToolTip": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Components\\Pages\\RouterHub.razor",
               "RelativeToolTip": "HostingModel\\HostingModel\\Components\\Pages\\RouterHub.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-31T13:09:24.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Event.razor",
               "DocumentMoniker": "D:\\Aplica\u00E7\u00F5es C-Sharp\\Blazor\\HostingModel\\HostingModel\\Components\\Pages\\Event.razor",
               "RelativeDocumentMoniker": "HostingModel\\HostingModel\\Components\\Pages\\Event.razor",
@@ -60,8 +128,7 @@
               "RelativeToolTip": "HostingModel\\HostingModel\\Components\\Pages\\Event.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-31T12:03:54.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T12:03:54.617Z"
             }
           ]
         }

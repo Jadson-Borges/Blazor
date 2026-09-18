@@ -27,3 +27,6 @@ D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\staticwebassets.build.json
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\staticwebassets.build.json
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\staticwebassets.build.json

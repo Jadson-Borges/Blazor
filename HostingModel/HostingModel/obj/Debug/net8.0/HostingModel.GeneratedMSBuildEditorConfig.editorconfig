@@ -27,8 +27,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/404error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1w0MDRlcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/Bind.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCaW5kLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/Error.razor]

@@ -22,6 +22,7 @@ else
     app.UseHsts();
 }
 
+app.UseStatusCodePagesWithRedirects("/statusCode/{0}");
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
