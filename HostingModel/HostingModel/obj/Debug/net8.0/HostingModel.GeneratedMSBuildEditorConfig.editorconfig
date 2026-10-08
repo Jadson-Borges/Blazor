@@ -39,6 +39,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/Components/BootstrapCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21wb25lbnRzXEJvb3RzdHJhcENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Aplicações C-Sharp/Blazor/HostingModel/HostingModel/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

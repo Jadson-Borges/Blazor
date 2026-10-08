@@ -1032,6 +1032,6 @@ D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\j4z2foz4ig-{0}-5n40u1c0f1-5n40u1c0f1.gz
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\e25tjj2u1v-{0}-n9l4xkm0w3-n9l4xkm0w3.gz
 D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\pztwzsd65n-{0}-bdb3danj34-bdb3danj34.gz
-D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\n0ksjq95vm-{0}-f7eeazqjl9-f7eeazqjl9.gz
-D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\jfdrqo461j-{0}-dswoq5bo6s-dswoq5bo6s.gz
-D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\teb75678ta-{0}-83f4f5uo7o-83f4f5uo7o.gz
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\n0ksjq95vm-{0}-br293ugxwv-br293ugxwv.gz
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\jfdrqo461j-{0}-df8jr0m13n-df8jr0m13n.gz
+D:\Aplicações C-Sharp\Blazor\HostingModel\HostingModel.Client\obj\Debug\net8.0\compressed\teb75678ta-{0}-q75755ogj2-q75755ogj2.gz
